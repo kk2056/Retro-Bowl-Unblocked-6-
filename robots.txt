@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://retrobowl2025.online/sitemap.xml
